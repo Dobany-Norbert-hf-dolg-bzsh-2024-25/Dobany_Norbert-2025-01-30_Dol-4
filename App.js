@@ -8,7 +8,7 @@ export default function App() {
   const [surfaceArea, setSurfaceArea] = useState("");
 
   const calculateSurfaceArea = () => {
-    const surfaceArea = 2 * Math.PI * radius * (radius+height);
+    const surfaceArea = 2*Math.PI*Math.pow(radius, 2) + 2*Math.PI*radius*height;
     setSurfaceArea(surfaceArea.toFixed(2));
   };
 
