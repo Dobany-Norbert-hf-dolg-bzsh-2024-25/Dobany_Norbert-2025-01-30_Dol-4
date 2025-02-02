@@ -12,7 +12,6 @@ export default function App() {
     setSurfaceArea(surfaceArea.toFixed(2));
   };
 
-
   return (
     <View style={styles.container}>
       <Text style={styles.head}>Kör alapú henger felszín kalkulátor</Text>
@@ -75,6 +74,5 @@ const styles = StyleSheet.create({
     fontSize: 13,
     fontWeight: 'bold',
     color: 'white',
-  },
-  
+  }
 });
