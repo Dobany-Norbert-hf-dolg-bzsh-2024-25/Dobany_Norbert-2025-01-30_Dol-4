@@ -4,7 +4,7 @@
 * Copyright: 2025, Dobány Norbert
 * Group: Szoft II/1/N
 * Date: 2025-02-02
-* Github: https://github.com/notdefininitelynot/
+* Github: https://github.com/notdefinitelynot/
 * Licenc: GNU GPL
 */
 
