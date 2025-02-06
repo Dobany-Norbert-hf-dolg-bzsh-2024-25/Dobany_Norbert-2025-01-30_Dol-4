@@ -1,3 +1,13 @@
+/*
+* File: App.js
+* Author: Dobány Norbert
+* Copyright: 2025, Dobány Norbert
+* Group: Szoft II/1/N
+* Date: 2025-02-02
+* Github: https://github.com/notdefininitelynot/
+* Licenc: GNU GPL
+*/
+
 import { useState } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import { Button, TextInput } from 'react-native';
